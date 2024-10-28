@@ -9,8 +9,16 @@
 
 - 📫 How to reach me **siridheeraj19@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/18vn6G3YwjKFiIyiFs5MXCASt2n5ZdVC1/view?usp=sharing](https://drive.google.com/file/d/18vn6G3YwjKFiIyiFs5MXCASt2n5ZdVC1/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/talasila-dheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talasila-dheeraj" height="30" width="40" /></a>
+<a href="https://kaggle.com/siridheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="siridheeraj" height="30" width="40" /></a>
+<a href="https://instagram.com/dheeraj2005t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dheeraj2005t" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tdheeraj_cs22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tdheeraj_cs22" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/siridheeraj19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siridheeraj19" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/siridhemmzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siridhemmzo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-blip&show_icons=true&locale=en" alt="dheeraj-blip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-blip&" alt="dheeraj-blip" /></p>
+
 
 
 
